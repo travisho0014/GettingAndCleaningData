@@ -60,5 +60,5 @@ run_analysis <- function(){
   library(data.table)
   dataTable <- data.table(data)
   CleaningData<- dataTable[, lapply(.SD, mean), by=c("sID", "activity")]
-  write.table(CleaningData, "tidy_data.txt")
+  write.table(CleaningData, "tidy_data.txt", row.name=FALSE)
 }
