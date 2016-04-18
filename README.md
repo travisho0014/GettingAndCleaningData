@@ -2,9 +2,9 @@
 
 This assignment inclued these files.
 
-###README.md      ---  Readme for this project.
-###run_analysis.R --- The Script for cleaning the data.
-###Cookbook.md    --- Describe the variables' feature.
+1 README.md      ---  Readme for this project.
+2 run_analysis.R --- The Script for cleaning the data.
+3 Cookbook.md    --- Describe the variables' feature.
 
 
 ## The Goal 
