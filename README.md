@@ -3,7 +3,9 @@
 This assignment inclued these files.
 
 1 README.md      ---  Readme for this project.
+
 2 run_analysis.R --- The Script for cleaning the data.
+
 3 Cookbook.md    --- Describe the variables' feature.
 
 
